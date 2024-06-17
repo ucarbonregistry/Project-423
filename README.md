@@ -139,3 +139,68 @@ the date of commissioning or as per UCR guideline of crediting period (i.e. from
 whichever is latest). This project is not registered with any other voluntary market (National or
 International) in said vintage period in PCN. Hence, the criteria for double counting is not
 applicable for the project, for the claimed period.
+______________
+UCR Issuance date: 17/06/2024
+
+Quantity: 2613659 CoUs
+______________
+Serial Number: 0001-000001-174740-UCR-CoU-IN-423-01012013-31122013
+
+Vintage Year: 2013
+
+Quantity: 174740
+______________
+Serial Number: 0001-174741-392102-UCR-CoU-IN-423-01012014-31122014
+
+Vintage Year: 2014
+
+Quantity: 217362
+________________
+Serial Number: 0001-392103-645030-UCR-CoU-IN-423-01012015-31122015
+
+Vintage Year: 2015
+
+Quantity: 252928
+_________________
+Serial Number: 0001-645031-914779-UCR-CoU-IN-423-01012016-31122016
+
+Vintage Year: 2016
+
+Quantity: 269749
+__________________
+Serial Number: 0001-914780-1208419-UCR-CoU-IN-423-01012017-31122017
+
+Vintage Year: 2017
+
+Quantity: 293640
+_________________
+Serial Number: 0001-1208420-1462318-UCR-CoU-IN-423-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity: 253899
+______________
+Serial Number: 0001-1462319-1729345-UCR-CoU-IN-423-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 267027
+______________
+Serial Number: 0001-1729346-2008183-UCR-CoU-IN-423-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 278838
+______________
+Serial Number: 0001-2008184-2319419-UCR-CoU-IN-423-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 311236
+______________
+Serial Number: 0001-2319420-2613659-UCR-CoU-IN-423-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 294240
+_______________
