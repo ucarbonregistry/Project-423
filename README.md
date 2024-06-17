@@ -1,4 +1,39 @@
 # Project-423
+
+The project activity titled, 228 MW Bundled Wind Projects in RJ, MP and Maharashtra, India is a
+bundle of 2 (two) renewable (wind) energy project activities with details as follows:
+
+➢ The project has a total capacity of 228 MW, commissioned in phases over several years. The
+first phase, with a capacity of 12 MW, was commissioned in March 2008. The second phase,
+with 30 MW, was commissioned in September 2009. An additional 54 MW was added in July
+2012.
+
+➢ Originally, 96 MW of the project was owned by M/s. Gujarat Fluorochemicals. In 2017,
+ownership was transferred to M/s. Inox Renewables Limited. Subsequently, M/s. Inox
+Renewable (Jaisalmer) Limited, the power producer, assigned the project to M/s. Ivy Ecoenergy
+India Pvt Limited, Tamil Nadu (India). Of the 132 MW capacity previously owned by M/s. Inox
+Renewables Limited, 68 MW was assigned to Ivy Ecoenergy India Pvt Ltd, making the total
+capacity under Ivy Ecoenergy 164 MW.
+
+➢ The Ivy Ecoenergy wind farm bundle is owned by M/s. Ivy Ecoenergy India Pvt Ltd, a special
+purpose vehicle (SPV) owned by Leap Green Energy Private Limited (Project Proponent). The
+total installed capacity of Ivy Ecoenergy is 164 MW, comprising 89 wind turbine generators
+(WTGs). This includes 61 Inox WTGs with a capacity of 2 MW each and 28 Suzlon WTGs with a
+capacity of 1.5 MW each, located in Rajasthan, Madhya Pradesh, and Maharashtra. M/s. Inox
+Wind Infrastructure Services Limited provides all Engineering, Procurement, and Construction
+(EPC), as well as Operations and Maintenance (O&M) services.
+
+➢ The Vanilla Clean Power wind farm bundle is owned by M/s. Vanilla Clean Power Pvt Ltd, with
+a total installed capacity of 64 MW, consisting of 32 WTGs at the Dangri site in Rajasthan.
+Initially, the project was under Inox Renewables Limited. M/s. Inox Renewable (Jaisalmer)
+Limited, the power producer, assigned the project to M/s. Vanilla Clean Power Private Limited,
+with its registered office at Coimbatore, Tamil Nadu (India). Vanilla Clean Power Private Limited
+is a special purpose vehicle (SPV) owned by Leap Green Energy Private Limited (Project
+Proponent), located at Coimbatore, Tamil Nadu. All EPC and O&M services are provided by M/s.
+Inox Wind Infrastructure Services Limited.
+
+The generated electricity from the wind turbine generators (WTGs) in the bundles are connected to
+the state electric utility grids of RJ, MP and Maharashtra.
 228 MW Bundled Wind Projects in RJ, MP and Maharashtra, India
 
 1 st CoU Issuance Period: 01/01/2013 to 31/12/2023 (11 years)
@@ -85,4 +120,22 @@ the project activity is expected to be 276,302 tCO2e, whereas actual emission re
 during the first CoU period shall be submitted as a part of first monitoring and verification.
 Since the project activity will generate electricity through wind energy, a clean renewable energy
 source it does not cause any negative impacts on the environment and thereby contributes to climate
-change mitigation efforts
+change mitigation efforts.
+_____________
+PRIOR HISTORY
+__________
+Out of the 228 MW capacity of this project, 10.5 MW of wind power Ossiya site and 19.5 MW
+Ossiya site are registered in Clean Development Mechanism (CDM) and gold standard registry and
+12 MW Sadia site is applied only in CDM.
+
+Among the registered sites only 10.5 MW wind project Ossiya site has received CER for the
+period 01/01/2013 to 31/07/2014, the rest projects are only registered but have not been issued
+carbon credits.
+
+PP is requesting issuance of carbon offsets in UCR, after the period of previous issuance carbon
+credits (01/01/2013 - 31/07/2014) in 10.5 mw ossiya site, i.e. crediting period will start from
+01/08/2014 only at 10.5 mw ossiya site, And remaining site crediting period will commence from
+the date of commissioning or as per UCR guideline of crediting period (i.e. from January 2013
+whichever is latest). This project is not registered with any other voluntary market (National or
+International) in said vintage period in PCN. Hence, the criteria for double counting is not
+applicable for the project, for the claimed period.
